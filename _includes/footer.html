@@ -1,60 +1,19 @@
 <footer class="site-footer">
-
-  <div class="wrapper">
-
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="c    <div>
-      <address>
-        825 Wappoo Rd
-        Charleston SC 29407 
-      </address>
-      <h4>Open by appointment</h4>
-      <table>
-        <tr><th>Monday-Friday</th><td>9:00 am - 7:00 pm</td></tr>
-        <tr><th>Saturday</th><td>10:00 am - 5:00 pm</td></tr>
-      </table>
-      <p>
-        Call now to put YOUR NEEDS FIRST! 
-      </p>
-      <a href="tel:8432776467">843-277-6467</a>
-    </div>ontact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
+  <div class="row">
+    <div class='col-1'></div>
+    <div class='col-10'>
+      <ul class='footer-list'>
+        <li>COPYRIGHT © NURTURE MASSAGE THERAPEUTIC SPA 2009-2017 | ALL RIGHTS RESERVED</li>
+        <li>A Nurturing Touch Therapeutic Massage</li>
+        <li>825 Wappoo Rd</li>
+        <li>Charleston, SC 29407</li>
+        <li>843.277.6467</li>
+        <li>charlestonSCmassage.com</li>
+      </ul>
     </div>
-
+    <div class='col-1'></div>
   </div>
 
 </footer>
