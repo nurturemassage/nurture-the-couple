@@ -1,5 +1,7 @@
 ---                                                                            
 layout: default 
+title: home4
+permalink: /home4/
 --- 
 
 <h1>Your Place for Massage in Charleston, SC</h1>
@@ -9,7 +11,7 @@ layout: default
 </p>
 
 <div class="row">
-	<div class="col-sm-12 col-md-6" style="width: 20rem;">
+	<div class="col col-sm-12 col-md-6 background1" style="width: 20rem;">
 		<img class="card-img-top" src="{{ "/" | relative_url }}{{ site.image_path }}the-athlete.png" alt="business logo for the athlete">
 		<div class="card-body">
 			<h4 class="card-title">Sports Massage</h4>
@@ -19,7 +21,7 @@ layout: default
 		</div>
 	</div>
 
-	<div class="col-sm-12 col-md-6" style="width: 20rem;">
+	<div class="col col-sm-12 col-md-6 background2" style="width: 20rem;">
 		<img class="card-img-top" src="{{ "/" | relative_url }}{{ site.image_path }}the-mother.png" alt="business logo for the mother">
 		<div class="card-body">
 			<h4 class="card-title">Prenatal Massage</h4>
@@ -30,7 +32,7 @@ layout: default
 </div>
 
 <div class="row">
-	<div class="col-sm-12 col-md-6" style="width: 20rem;">
+	<div class="col col-sm-12 col-md-6 background2" style="width: 20rem;">
 		<img class="card-img-top" src="{{ "/" | relative_url }}{{site.image_path}}the-couple.png" alt="Card image cap">
 		<div class="card-body">
 			<h4 class="card-title">Couples Massage</h4>
@@ -39,7 +41,7 @@ layout: default
 		</div>
 	</div>
 
-	<div class="col-sm-12 col-md-6" style="width: 20rem;">
+	<div class="col col-sm-12 col-md-6 background1" style="width: 20rem;">
 		<img class="card-img-top" src="{{ "/" | relative_url}}{{site.image_path}}the-neck.png" alt="business logo for the neck">
 		<div class="card-body">
 			<h4 class="card-title">Head in the Clouds</h4>

@@ -9,3 +9,5 @@ theme: minima
 baseurl: "/nurture-massage" 
 url: "mcmillanator.github.io" 
 github_username:  mcmillanator
+
+image_path: 'assets/images/'
