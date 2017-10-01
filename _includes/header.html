@@ -14,13 +14,16 @@
 		{% if page_paths %}
 			<nav class="navbar navbar-expand-lg navbar-light" style="padding: 0; background-color: #c8b8d3;">
         <div class='navbar-nav'>
-          <a class="nav-item nav-link" href={{ "/" | relative_url }}>Home</a>
+					<a class="navbar-brand" href="{{ "/" | relative_url }}">
+						<img src="{{ '/' | relative_url }}{{ site.image_path}}favicon.png" width="30" height="30" class="d-inline-block align-top" alt="{{ site.title | escape }}">
+					 	{{ site.title | escape }}	
+					</a>
         </div>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-					<div class="navbar-nav">
+					<div class="navbar-nav navbar-center">
 						{% for path in page_paths %}
 							{% assign my_page = site.pages | where: "path", path | first %}
 							{% if my_page.title %}
