@@ -1,0 +1,22 @@
+.background1 {
+	background-color: #c7bcd4;
+}
+
+.background2 {
+	background-color: #94b8c1;
+}
+
+.background {
+  position: fixed;
+  top: 200px;
+  z-index: -1;
+}
+
+.padded > div > p {
+ padding: 11%;
+}
+
+.fixed-height {
+  height: 226px;
+}
+
