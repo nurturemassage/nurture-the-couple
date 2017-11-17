@@ -13,11 +13,11 @@
 
 .navbar {
   padding: 0 2em;
-  background: #c8b8d3;
+  background: $color-background;
 }
 
 .nav-link:hover {
-  background: white;
+  background: $color-navlink-background;
 }
 
 
