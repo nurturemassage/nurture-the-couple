@@ -4,17 +4,8 @@ title: Policies
 permalink: /policies/
 ---
 
-It's time to put your needs first! Our caring, knowledgeable, intuitive and detail-oriented therapists are here to make that possible! Angela Judy at Nurture Massage Therapeutic Spa in Charleston offers affordable massage and mini-spa services with a focus on relaxation, pain relief, injury prevention & rehabilitation, increased athletic performance, and ease of discomfort during pregnancy. Call today; You're in good hands. 
+Reservation Policy: All new clients and couples massages are required to reserve their appointment with a credit card. This it so show your respect for our therapists time. The card is not charged unless the following cancellation policy is broken.
 
+Cancellation Policy: Kindly give 48 hours notice to change or cancel your appointment to avoid any cancellation fee. All first time clients must reserve their appointment on a credit card. If cancelling the day prior to your appointment, cancellation fee is half of the price of your scheduled service. Full price will be charged for cancellation the day of your appointment time and for a no call/no show. If you have a gift certificate, there will be a $25 cancellation fee, and a no call/no show will forfeit your certificate. If you have a 30-minute promotional certificate, you will be charged the same as a full-priced appointment.
 
-## Angela Judy, Owner, Massage Therapist Lic. 6304, Reiki I
-
-Angela Judy received her certificate for massage at Trident Technical College in 2004. She is trained in Swedish, deep tissue, sports, prenatal massage, and triggerpoint therapy. She also uses Active Isolated Stretching to relieve tension in tight muscles. In addition to her massage training, she has been an athletic performing artist (cheerleading, acrobatics, and several forms of dance) since she was 12 years old. She knows how it feels to have pain from overused or torn muscles, dislocated joints, or taking a fall. Angela works well with clients who suffer from headaches, neck pain, and low back/hip pain. With a kind and nurturing personality, she loves to help and care for people and it is this passion that inspired her to open Nurture Massage Therapeutic Spa.
-
-## Jerome DeLain, Massage Therapist Lic. 9833
-
-A graduate of the Massage Therapy Program at Trident Technical College, Jerome has been a Licensed Massage Therapist since 2015. He adds stretching, movement, and deep tissue kneading to provide a restorative, therapeutic treatment that aids in the body’s natural healing process and re-connect the person as a whole. Those who have benefited from his work are: pregnant women, athletes, chronic pain & migraine sufferers, and anyone seeking overall wellness of being, mind, body, and soul.
-
-## Jennifer Marvel, Massage Therapist Lic. 10933
-
-Jennifer Marvel has been in the field of health and wellness for 20 years. She graduated from the Florida School of Massage in 1997 and the Integral Yoga Institute in 2004. Jennifer is driven to help her clients achieve their health goals by integrating massage modalities with mindfulness and stretching techniques designed to meet individual client needs. She specializes in treating clients who have chronic shoulder and neck pain, low back discomfort, sore hands and feet, and prenatal and postnatal clients.
+Lateness Policy: Please arive 5-10 minutes before your scheduled appointment time to fill out any paper work. If you arrive late, your time may be shortened at your practitioners discretion, so that the next client may start on time. You are responsible for full payment for the time as scheduled.
