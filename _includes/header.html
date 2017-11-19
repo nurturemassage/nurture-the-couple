@@ -1,0 +1,38 @@
+<header> 
+  <div class="container-fluid">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+
+			<nav class="fixed-top navbar navbar-expand-lg navbar-light">
+        <div class='navbar-nav'>
+					<a class="navbar-brand" href="{{ "/" | relative_url }}">
+						<img src="{{ '/' | relative_url }}{{ site.image_path}}the-couple.svg" class="nav-logo d-inline-block align-top" alt="{{ site.title | escape }}">
+					</a>
+        </div>
+        {% if page_paths %}
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse mt-2 mt-lg-0" id="navbarNavAltMarkup">
+            <ul class="navbar-nav ml-auto">
+              {% for path in page_paths %}
+                {% assign my_page = site.pages | where: "path", path | first %}
+                {% if my_page.title %}
+                  <li><a class="nav-item nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+			</nav>
+    <div class='row header-row'>
+      <div class='col'></div>
+      <div class='col-sm-12 col-lg-6 header-logo'>
+        <a class="site-title" href="{{ "/" | relative_url }}">
+          <img class="img-fluid" src="{{ "/" | relative_url }}{{ site.image_path }}the-couple.svg" alt="{{ site.title | escape }}" />
+        </a>
+      </div>
+      <div class='col'></div>
+    </div>
+	</div>
+</header>
