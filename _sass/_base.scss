@@ -9,12 +9,11 @@ h1, h2 {
   font-family: 'Pacifico', cursive;
   color: $color-heading; 
   text-align: center;
-  text-shadow: $heading-shadow;
 }
 footer {
   font-size: .75rem;
   background-color: $color-background;
   h2 {
-    text-shadow: $heading-border;
+    text-shadow: $text-border;
   }
 }
