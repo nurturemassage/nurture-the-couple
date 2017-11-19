@@ -20,4 +20,6 @@
   background: $color-navlink-background;
 }
 
-
+.navbar-light .navbar-nav .nav-link {
+  color: $color-navlink-text; 
+}
