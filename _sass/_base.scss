@@ -4,16 +4,16 @@ table {
 td {
   padding: 0 0 0 10px;
 }
-h1, h2 {
-  margin: 1em 0;
-  font-family: 'Pacifico', cursive;
-  color: $color-heading; 
-  text-align: center;
-    @include media-breakpoint-down(md) { 
-      font-size: 2rem;
-  }
+h1 {
+  @include heading($color-heading); 
 }
+
+h2 {
+  @include heading($lavender);
+}
+
 footer {
+  margin: 0 0 40px 0;
   font-size: .75rem;
   background-color: $color-background;
   h2 {

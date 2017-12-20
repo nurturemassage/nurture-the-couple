@@ -18,3 +18,12 @@ A graduate of the Massage Therapy Program at Trident Technical College, Jerome h
 ## Jennifer Marvel, Massage Therapist Lic. 10933
 
 Jennifer Marvel has been in the field of health and wellness for 20 years. She graduated from the Florida School of Massage in 1997 and the Integral Yoga Institute in 2004. Jennifer is driven to help her clients achieve their health goals by integrating massage modalities with mindfulness and stretching techniques designed to meet individual client needs. She specializes in treating clients who have chronic shoulder and neck pain, low back discomfort, sore hands and feet, and prenatal and postnatal clients.
+
+## Location
+
+<iframe
+  width="600"
+  height="450"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDzU6qfqWEBG2Uinf1ZE2MDUs8URlazf9E&q=Space+Needle,Seattle+WA" allowfullscreen>
+</iframe>
