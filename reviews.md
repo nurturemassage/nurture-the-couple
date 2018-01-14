@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-order: 6
+title: Reviews 
+permalink: /reviews/
+order: 3
 ---
 
 It's time to put your needs first! Our caring, knowledgeable, intuitive and detail-oriented therapists are here to make that possible! Angela Judy at Nurture Massage Therapeutic Spa in Charleston offers affordable massage and mini-spa services with a focus on relaxation, pain relief, injury prevention & rehabilitation, increased athletic performance, and ease of discomfort during pregnancy. Call today; You're in good hands. 

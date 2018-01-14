@@ -2,6 +2,7 @@
 layout: page
 title: Policies 
 permalink: /policies/
+order: 4
 ---
 
 Reservation Policy: All new clients and couples massages are required to reserve their appointment with a credit card. This it so show your respect for our therapists time. The card is not charged unless the following cancellation policy is broken.
