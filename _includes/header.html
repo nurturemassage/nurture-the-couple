@@ -5,7 +5,9 @@
 			<nav class="fixed-top navbar navbar-expand-lg navbar-light">
         <div class='navbar-nav'>
 					<a class="navbar-brand" href="{{ "/" | relative_url }}">
-						<img src="{{ '/' | relative_url }}{{ site.image_path}}the-couple.svg" class="nav-logo d-inline-block align-top" alt="{{ site.title | escape }}">
+						<img src="{{ '/' | relative_url }}{{ site.image_path}}the-couple.svg" 
+								 class="nav-logo d-inline-block align-top" alt="{{ site.title | escape }} logo"
+						>
 					</a>
         </div>
         {% if pages %}
@@ -26,8 +28,10 @@
     <div class='row header-row'>
       <div class='col'></div>
       <div class='col-sm-12 col-lg-6 header-logo'>
-        <a class="site-title" href="{{ "/" | relative_url }}">
-          <img class="img-fluid" src="{{ "/" | relative_url }}{{ site.image_path }}couplesbanner.png" alt="{{ site.title | escape }}" />
+				<a class="site-title" href="{{ "/" | relative_url }}">
+					<img class="img-fluid" src="{{ "/" | relative_url }}{{ site.image_path }}couplesbanner.png" 
+						alt="a couple holding hands while laying down on massage tables" 
+					/>
         </a>
       </div>
       <div class='col'></div>
