@@ -23,8 +23,8 @@ Jennifer Marvel has been in the field of health and wellness for 20 years. She g
 ## Location
 
 <iframe
-  width="600"
+  width="100%"
   height="450"
   frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDzU6qfqWEBG2Uinf1ZE2MDUs8URlazf9E&q=Space+Needle,Seattle+WA" allowfullscreen>
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDzU6qfqWEBG2Uinf1ZE2MDUs8URlazf9E&q=825+Wappoo+Rd,+Charleston,+SC+29407" allowfullscreen>
 </iframe>
