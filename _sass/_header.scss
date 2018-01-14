@@ -30,5 +30,8 @@
 
 .ml-auto {
   background: $teal;
-	align-items: center;
+  li {
+    text-align: center;
+    width: 100%;
+  }
 }
