@@ -4,16 +4,13 @@ table {
 td {
   padding: 0 0 0 10px;
 }
+
+h2,h3,h4,h5,h6 {
+  @include heading($lavender); 
+}
+
 h1 {
   @include heading($color-heading); 
-}
-
-h2 {
-  @include heading($lavender);
-}
-
-h1,h2,h3,h4,h5,h6 {
-  font-family: $font-title;
 }
 
 p {

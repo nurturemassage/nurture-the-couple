@@ -3,6 +3,7 @@ layout: page
 title: Services 
 permalink: /services/
 order: 1
+visable: true
 ---
 
 Nurture Massage of Charleston, SC uses many types of massage techniques to promote your healing and well-being. Great care is given to everybody, particularly those with injuries, ailments, the elderly and pregnant women, to ensure they are comfortable and cared for properly and safely. Our experienced and licensed massage therapists carefully customize the right massage treatment to best suit your individual needs. 

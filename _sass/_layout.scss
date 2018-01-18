@@ -1,3 +1,12 @@
+.center {
+  text-align: center;
+}
+
+.card {
+  width: 45%;
+  display: inline-block;
+}
+
 .background {
   position: fixed;
   top: 200px;
@@ -15,4 +24,39 @@
 .row {
   margin-left: 0;
   margin-right: 0;
+}
+
+// dotted list copied from CodePen https://codepen.io/jensgro/pen/bNwXMW?q=price%20list
+.dotted-list {
+  width: 300px;
+  list-style-type: none;
+  margin: auto;
+}
+
+.dotted-list li {
+  overflow: hidden;
+  margin: 0 0 10px 0;
+  position: relative;
+}
+
+.dotted-list li span:first-child {
+  float: left;
+  display: inline-block;
+  padding: 0 20px 0 0;
+  background-color: #fff;
+  position: relative;
+}
+
+.dotted-list li span + span {
+  float: right;
+  display: inline-block;
+  padding: 0 3px 0 20px;
+  background-color: #fff;
+  position: relative;
+}
+
+.dotted-list li:before {
+  content: ".......................................................................................................................................................................................................................................................................................................................................................";
+  white-space: nowrap;
+  position: absolute;
 }
