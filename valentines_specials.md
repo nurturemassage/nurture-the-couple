@@ -22,16 +22,22 @@ permalink: /valentines-specials/
 	<div class="col-2"></div>
 </div>
 
+
+
 <div class="row">
-	<div class="col-1"></div>
-	<div class="col-10">
-		<p>
+	<div class="col-5"></div>
+	<div class="col-2">
+		<a href="https://www.thegiftcardcafe.com/cart/index.php?storeID=2336" target="_blank">
+			<img src="http://www.thegiftcardcafe.com/cart/images/giftButton1.gif" alt="gift certificate button image">
+		</a>
+	</div>
+	<div class="col-5"></div>
+	<div class="col-12">
+		<p class="center">
 			All Massages scheduled for the 10th-18th will include a gift of FREE SIGNATURE AROMATHERAPY!  All Guests on Tuesday the 14th will receive a gift of Roses and Chocolate!
 		</p>
 	</div>
-	<div class="col-1"></div>
 </div>
-
 
 <div class="row">
 	<div class="col-1"></div>
@@ -89,9 +95,5 @@ permalink: /valentines-specials/
 	</div>
 	<div class="col-1"></div>
 </div>
-
-<a href="https://www.thegiftcardcafe.com/cart/index.php?storeID=2336" target="_blank">
-	<img src="http://www.thegiftcardcafe.com/cart/images/giftButton1.gif" alt="gift certificate button image" width="155" height="42" border="0">
-</a>
 
 <strong>ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.   Please call to book your appointment.  All reservations for these dates must be secured with a credit card.  There will be a 96-hr (4 day) cancellation policy.  If you cancel within 3-4 days prior to your appointment, half of the price of your service will be charged to the card: if you cancel with-in 48-hrs, then the full-price will be charged.</strong>
