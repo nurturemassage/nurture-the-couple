@@ -16,6 +16,12 @@
   background: $color-background;
 }
 
+.navbar-brand {
+	@include media-breakpoint-down(sm) {
+		margin-right: 0;
+	}
+}
+
 .nav-link:hover {
   background: $color-navlink-background;
 }
@@ -25,7 +31,7 @@
 }
 
 .nav-logo {
-	height: 54px;
+	height: 3.4rem;
 }
 
 .ml-auto {
