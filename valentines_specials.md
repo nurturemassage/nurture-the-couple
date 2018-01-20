@@ -40,8 +40,8 @@ permalink: /valentines-specials/
 </div>
 
 <div class="row">
-	<div class="col-1"></div>
-	<div class="col-5">
+	<div class="col"></div>
+	<div class="col-10">
 		<h2>Couple's Massage w/Aromatherapy</h2>
 		<ul class="dotted-list">
 			<li><span>60 Minutes Swedish</span><span>$160</span></li>
@@ -63,34 +63,6 @@ permalink: /valentines-specials/
 		<ul class="dotted-list">
 			<li><span>90 Minutes</span><span>$320</span></li> 
 			<li><span>120 Minutes</span><span>$380</span></li> 
-		</ul>
-	</div>
-
-	<div class="col-5">
-		<h2>Single & Fabulous</h2>
-
-		<p class="center">You deserve some self-indulgence!</p>
-
-		<h3>Aromatherapy Massage</h3>
-
-		<ul class="dotted-list">
-			<li><span>60 Minutes Swedish</span><span>$70</span></li> 
-			<li><span>60 Minutes</span><span>$80</span></li> 
-			<li><span>90 Minutes</span><span>$110</span></li> 
-		</ul>
-
-		<h3>Single's Hot Stone Massage w/ Aromatherapy</h3>
-
-		<ul class="dotted-list">
-			<li><span>60 Minutes</span><span>$110</span></li> 
-			<li><span>90 Minutes</span><span>$140</span></li> 
-		</ul>
-
-		<h3>Single's Vanilla and Chocolate Spa Package</h3>
-
-		<ul class="dotted-list">
-			<li><span>90 Minutes</span><span>$150</span></li> 
-			<li><span>120 Minutes</span><span>$180</span></li> 
 		</ul>
 	</div>
 	<div class="col-1"></div>

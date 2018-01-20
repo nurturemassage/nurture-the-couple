@@ -23,6 +23,7 @@
 
 // dotted list copied from CodePen https://codepen.io/jensgro/pen/bNwXMW?q=price%20list
 .dotted-list {
+	padding: 0;
   list-style-type: none;
   margin: auto;
 }
@@ -39,6 +40,9 @@
   padding: 0 20px 0 0;
   background-color: #fff;
   position: relative;
+	@include media-breakpoint-down(xs) {
+		padding: 0;
+	}
 }
 
 .dotted-list li span + span {
@@ -47,10 +51,16 @@
   padding: 0 3px 0 20px;
   background-color: #fff;
   position: relative;
+	@include media-breakpoint-down(xs) {
+		padding: 0;
+	}
 }
 
 .dotted-list li:before {
   content: ".......................................................................................................................................................................................................................................................................................................................................................";
   white-space: nowrap;
   position: absolute;
+	@include media-breakpoint-down(xs) {
+		content: "";
+	}
 }
