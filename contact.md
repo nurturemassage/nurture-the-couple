@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <address>
-  Angela Judy, Owner, LMT, Reiki I 
+Nurture Massage Therapeutic Spa
   <br>
   825 Wappoo Rd
   <br>
@@ -13,12 +13,11 @@ permalink: /contact/
   <br>
   Phone: 843-277-6467
   <br>
-  Email: angela@charlestonscmassage.com 
+  Email: concierge@charlestonscmassage.com 
 </address>
 
 ## Hours
 Open by appointment.
-If you are looking to book an appointment within 24 hours, please give us a call.
 <table>
   <tr>
     <th>Monday-Friday</th>
