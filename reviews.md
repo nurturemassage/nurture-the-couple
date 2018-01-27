@@ -6,26 +6,26 @@ order: 3
 visable: true
 ---
 
-It's time to put your needs first! Our caring, knowledgeable, intuitive and detail-oriented therapists are here to make that possible! Angela Judy at Nurture Massage Therapeutic Spa in Charleston offers affordable massage and mini-spa services with a focus on relaxation, pain relief, injury prevention & rehabilitation, increased athletic performance, and ease of discomfort during pregnancy. Call today; You're in good hands. 
+It is our top priority to provide you not only with a great massage, but with the best hospitable service from the moment you call til you walk out the door.  Many couples have enjoyed their experience with us.  We hope you will too.  
 
+Kathleen K. - 4 months ago
+We were passing through on an anniversary trip to the water's edge in Charleston. My husband and I booked a couples therapeutic massage. I had Jerome and my husband had Amy. Both were very knowledgeable and the massage was great. I recommend them if you are in the area and they were very accommodating for out of towners.
 
-## Angela Judy, Owner, Massage Therapist Lic. 6304, Reiki I
+Metodi M. - 6 Months Ago
+Went there with my wife for a couples massage during our honeymoon in Charleston. We normally get a massage once a month back home, but this was incredible. We both felt much more relaxed and ready to enjoy the rest of the day after visiting. Only disappointed we can't go again anytime soon.
 
-Angela Judy received her certificate for massage at Trident Technical College in 2004. She is trained in Swedish, deep tissue, sports, prenatal massage, and triggerpoint therapy. She also uses Active Isolated Stretching to relieve tension in tight muscles. In addition to her massage training, she has been an athletic performing artist (cheerleading, acrobatics, and several forms of dance) since she was 12 years old. She knows how it feels to have pain from overused or torn muscles, dislocated joints, or taking a fall. Angela works well with clients who suffer from headaches, neck pain, and low back/hip pain. With a kind and nurturing personality, she loves to help and care for people and it is this passion that inspired her to open Nurture Massage Therapeutic Spa.
+Brad M. - 8 Months Ago
+I have never had a Therapeutic Massage before but if they all felt as good as the ones that this place gave then I'd definitely go again. The atmosphere was pleasant/friendly and there wasn't a wait when I showed up. I had the couples massage (with my wife) and they used the hot stones, which were soothing.
 
-## Jerome DeLain, Massage Therapist Lic. 9833
+Katie D. - 9 Months Ago
+My husband and I had a couples massage here for our anniversary.  The massage therapists were very friendly, and gave us both really great, relaxing massages.  We are already planning our next visit!  Thanks Amy and Angela!
 
-A graduate of the Massage Therapy Program at Trident Technical College, Jerome has been a Licensed Massage Therapist since 2015. He adds stretching, movement, and deep tissue kneading to provide a restorative, therapeutic treatment that aids in the body’s natural healing process and re-connect the person as a whole. Those who have benefited from his work are: pregnant women, athletes, chronic pain & migraine sufferers, and anyone seeking overall wellness of being, mind, body, and soul.
+Sonja B. - 1 Year Ago
+We had a great couples massage here. They are skilled at maternity massage and my husband described his as "phenomenal", one of the best he's had, focusing on getting substantial kinks out of his neck and shoulders.
 
-## Jennifer Marvel, Massage Therapist Lic. 10933
+Rod E. - 2 Years Ago
+Amazing experience on 2/26/16!  Superb therapists and couples massage with a great atmosphere.  Will definitely return the next time I am in the Charleston area.
 
-Jennifer Marvel has been in the field of health and wellness for 20 years. She graduated from the Florida School of Massage in 1997 and the Integral Yoga Institute in 2004. Jennifer is driven to help her clients achieve their health goals by integrating massage modalities with mindfulness and stretching techniques designed to meet individual client needs. She specializes in treating clients who have chronic shoulder and neck pain, low back discomfort, sore hands and feet, and prenatal and postnatal clients.
+Write your Review
+https://search.google.com/local/writereview?placeid=ChIJyYjisnJ8_ogR-7Khp0qBbSY
 
-## Location
-
-<iframe
-  width="600"
-  height="450"
-  frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDzU6qfqWEBG2Uinf1ZE2MDUs8URlazf9E&q=Space+Needle,Seattle+WA" allowfullscreen>
-</iframe>

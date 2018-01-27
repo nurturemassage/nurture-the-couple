@@ -57,6 +57,11 @@
 	}
 }
 
+.dotted-list li span + span + span{
+	text-decoration: line-through;
+	color: red;
+}
+
 .dotted-list li:before {
   content: ".......................................................................................................................................................................................................................................................................................................................................................";
   white-space: nowrap;
@@ -64,4 +69,18 @@
 	@include media-breakpoint-down(xs) {
 		content: "";
 	}
+}
+
+.hours {
+	list-style: none;
+	margin: auto;
+	max-width: 450px;
+}
+
+.hours li span + span {
+	float: right;
+}
+
+.red {
+	color: red;
 }
