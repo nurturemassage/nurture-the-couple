@@ -24,7 +24,9 @@ Whether you're celebrating a special occassion or simply treating yourself to an
 </ul>
 
 ## Enhancements and Add-ons
-(priced per person)
+<p class='center'>
+	(priced per person)
+</p>
 
 ### Aromatherapy
 
