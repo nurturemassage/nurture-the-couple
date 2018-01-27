@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.container {
+	background: white;
+	margin-bottom: 140px;
+}
+
 .background {
   position: fixed;
   top: 200px;
@@ -26,7 +31,9 @@
 	padding: 0;
   list-style-type: none;
   margin: auto;
-	max-width: 45%;
+	@include media-breakpoint-up(sm) {
+		max-width: 45%;
+	}
 }
 
 .dotted-list li {
@@ -75,6 +82,7 @@
 	list-style: none;
 	margin: auto;
 	max-width: 450px;
+	padding: 0;
 }
 
 .hours li span + span {
