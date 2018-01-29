@@ -4,13 +4,21 @@ table {
 td {
   padding: 0 0 0 10px;
 }
-h1, h2 {
-  margin: 1em 0;
-  font-family: 'Pacifico', cursive;
-  color: $color-heading; 
-  text-align: center;
+
+h2,h3,h4,h5,h6 {
+  @include heading($lavender); 
 }
+
+h1 {
+  @include heading($color-heading); 
+}
+
+p {
+  font-family: $font-content;
+}
+
 footer {
+  margin: 40px 0 40px 0;
   font-size: .75rem;
   background-color: $color-background;
   h2 {

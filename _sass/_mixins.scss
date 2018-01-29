@@ -1,0 +1,9 @@
+@mixin heading($color) {
+  margin: 1em 0;
+  font-family: $font-title;
+  color: $color; 
+  text-align: center;
+    @include media-breakpoint-down(md) { 
+      font-size: 2rem;
+  }
+}

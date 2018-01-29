@@ -1,10 +1,16 @@
 $lavender: #c8b8d3;
-$teal: #b4d1d7;
+$teal: #8bb9c2;
 
 $color-background: white;
 $color-heading: $teal; 
 $color-navlink-background: rgb(180, 209, 215);
-$color-navlink-text: $lavender; 
+$color-navlink-text: black; 
+
+$color-mobile-menu-link-hover: linear-gradient(#e3d2ef, #aa90bb);
+$color-mobile-menu-link: linear-gradient(#c9eaf3, #6bb7c5);
 
 $text-border: 1px 0 black, -1px 0 black, 0 1px black, 0 -1px black; 
 $heading-shadow: 1px 1px black;
+
+$font-content: Mukta, serif;
+$font-title: Parissiene, serif;
