@@ -1,8 +1,8 @@
----                                                                            
-layout: default 
-title: Home3 
-permalink: /home3/                                                          
---- 
+---
+layout: default
+title: Home
+---
+ 
 
 <h1>Massage for Two</h1>
 
