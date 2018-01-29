@@ -1,7 +1,6 @@
 <!doctype html>
 <html>
 <head>
-<head>
 	<meta name="robots" content="noindex">
   <meta charset="utf-8">
 
@@ -9,12 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
 
-  <link rel="stylesheet" href="/assets/main.css">
   <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-  <!-- Include the styles for the Netlify CMS UI, after your own styles -->
   <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.css" />
-
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+	<script>
+	  CMS.registerPreviewStyle("/assets/main.css");
+	</script>
+
 	<script src="/assets/js/jquery-3.2.1.min.js"> </script>
 	<script src="/assets/js/popper.js"> </script>
 	<script src="/assets/js/bootstrap.min.js"> </script>
