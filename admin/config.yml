@@ -15,3 +15,20 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "partials"
+    label: "Partials"
+    folder: "_includes"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Content", name: "content", widget: "text"}
+
+  - label: "github"
+    name: "github"
+    files:
+      - label: "README"
+        name: "README"
+        file: "/README.md"
+        fields:
+          - {label: "Content", name: "content", widget: "markdown"}
