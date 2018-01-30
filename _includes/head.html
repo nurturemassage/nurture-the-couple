@@ -1,5 +1,4 @@
 <head>
-  <!-- TODO remove robots meta before copying to production -->
   {% if jekyll.environment == 'staging' %}
     <meta name="robots" content="noindex">
   {% else %}
@@ -27,4 +26,6 @@
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
+
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
