@@ -1,9 +1,6 @@
 ---
 layout: page
-title: Policies 
-permalink: /policies/
-order: 4
-visable: true
+title: Policies
 ---
 
 ## Reservation Policy 
@@ -17,3 +14,5 @@ Kindly give 48 hours notice to change or cancel your appointment to avoid any ca
 ## Lateness Policy 
 
 Please arrive 5-10 minutes before your scheduled appointment time to fill out any paperwork. If you arrive late, your time may be shortened at your practitioners discretion, so that the next client may start on time. You are responsible for full payment for the time as scheduled.
+
+
