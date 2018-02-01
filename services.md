@@ -100,3 +100,5 @@ Treat yourself from head to toe with the Head in the Clouds and the Sweet Feet T
 <ul class="dotted-list">
   <li><span>15 Minute Massage Enhancement</span><span>$35</span></li>
 </ul>
+
+
