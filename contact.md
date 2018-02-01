@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Contact 
-permalink: /contact/
-order: 5
-visable: true
+title: Contact
 ---
-
 ## Nurture Massage Therapeutic Spa
 
 <div class="row">
@@ -27,15 +23,18 @@ visable: true
 		</div>
 	</div>
 
-	<div class="col-sm-6">
-		<div class="center">
-			Open by appointment.
-		</div>
-		<ul class="hours">
-			<li><span>Monday-Friday</span><span>9:00 am – 7:00 pm</span></li>
-			<li><span>Saturday</span><span>10:00 am - 5:00 pm</span></li>
-		</ul>
+```
+<div class="col-sm-6">
+	<div class="center">
+		Open by appointment.
 	</div>
+	<ul class="hours">
+		<li><span>Monday-Friday</span><span>9:00 am – 7:00 pm</span></li>
+		<li><span>Saturday</span><span>10:00 am - 5:00 pm</span></li>
+	</ul>
+</div>
+```
+
 </div>
 
 ## Location
