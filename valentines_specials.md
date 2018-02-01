@@ -1,48 +1,16 @@
----                                                                            
-layout: default 
-permalink: /valentines-specials/                                                          
+---
+layout: default
 title: 2018 Valentine's Specials
---- 
+---
+
+<p>Imagine stepping into a warm, cozy room filled with soft candlelight, rose petals scattered all about, and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in. You note a hint of lavender in the air and hear the gentle sound of massage oil being warmed in your therapist hands. You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.  <strong>This could be you on Valentine's Day!</strong></p>
+
+<br>
+<p class="center">
+All Massages scheduled for the 10th-18th will include a gift of FREE SIGNATURE AROMATHERAPY!  All Guests on Tuesday the 14th will receive a gift of Roses and Chocolate!
+</p>
 
 
-<div class="row">
-	<div class="col-sm-2 center">
-		<img src="/assets/images/couples_massage_charleston.jpg" 
-				alt="a couple getting a massage together" class="img-thumbnail" 
-				title="Couples Massage in Charleston SC">
-	</div>
-	<div class="col-sm-10">
-		<p>Imagine stepping into a warm, cozy room filled with soft candlelight, rose petals scattered all about, 
-			and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two 
-			personal massage therapists walk in. You note a hint of lavender in the air and hear the gentle sound of massage 
-			oil being warmed in your therapist hands. You and your partner take in one last glimpse of one another before 
-			closing your eyes and escaping into an hour of luxury and relaxation.  
-			<strong>This could be you on Valentine's Day!</strong>
-		</p>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col-sm-5"></div>
-	<div class="col-sm-2 center">
-		<a href="https://www.thegiftcardcafe.com/cart/index.php?storeID=2336" target="_blank">
-			<img src="http://www.thegiftcardcafe.com/cart/images/giftButton1.gif" alt="gift certificate button image">
-		</a>
-	</div>
-	<div class="col-sm-5"></div>
-</div>
-
-<div class="row">
-	<div class="col-12">
-		<p class="center">
-			All Massages scheduled for the 10th-18th will include a gift of FREE SIGNATURE AROMATHERAPY!  
-			All Guests on Tuesday the 14th will receive a gift of Roses and Chocolate!
-		</p>
-	</div>
-</div>
-
-<div class="row">
-<div class="col-sm-12">
 
 <h2>Couple's Massage</h2>
 
@@ -53,6 +21,14 @@ title: 2018 Valentine's Specials
 <li><span>Therapeutic</span><span>$180</span><span>$210</span></li>
 <li><span>Combo</span><span>$170</span><span>$200</span></li>
 <li><span>90 Minutes</span><span>$240</span><span>$270</span></li>
+</ul>
+
+<h3>90 Minutes</h3>
+
+<ul class="dotted-list">
+
+<li><span>Therapeutic</span><span>$240</span><span>$270</span></li>
+
 </ul>
 
 <h2>Couple's Hot Stone Massage</h2>
@@ -76,8 +52,19 @@ oil smooths the skin and leaves a luminous glow.
 <li><span>Swedish</span><span>$300</span><span>$330</span></li> 
 <li><span>Therapeutic</span><span>$320</span><span>$350</span></li> 
 <li><span>Combo</span><span>$310</span><span>$340</span></li> 
-<li><span>with 90 Minute Massage</span><span>$380</span><span>$410</span></li> 
+</li> 
 </ul>
+
+<h3>with 90 Minute Massage</h3>
+
+<ul class="dotted-list">
+
+<li><span>Therapeutic</span><span>$380</span><span>$410</span></li> 
+
+</ul>
+
+<br><br>
+
 
 <strong class="red">
 ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.   
@@ -89,3 +76,4 @@ full-price will be charged.
 </div>
 </div>
 
+<br><br>
