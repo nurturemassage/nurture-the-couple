@@ -19,7 +19,7 @@ title: Contact
 		</div>
 		<div>
 			Email:
-			<a href="email:angela@charlestonscmassage.com">angela@charlestonscmassage.com</a>
+			<a href="email:concierge@charlestonscmassage.com">concierge@charlestonscmassage.com</a>
 		</div>
 	</div>
 
