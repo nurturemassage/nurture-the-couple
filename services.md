@@ -1,29 +1,28 @@
 ---
 layout: page
-title: Services 
-permalink: /services/
-order: 1
-visable: true
+title: Services
 ---
-
 Whether you're celebrating a special occassion or simply treating yourself to an indulgent spa session, a couples massage is a great way for you and your loved one to relax and rejuvenate. Despite the suggestive name, couples massages are not just for couples; friends and family members can also enjoy this luxurious experience together.
 
- For a couples session, massage therapy is usually intended for relaxation purposes rather than the healing of an injury or pain relief. Swedish Massage, the most basic form of massage is often used in couples massage for its relaxing effects.  Should you or your partner like your therapist to focus on any areas of pain or tension, you can easily upgrade to a therapeutic massage for just $10 per-person.  Your therapist will combine variety of healing techniques to tailor-craft your massage to fit your personal needs.  These techniques may include, but are not limited to Deep Tissue, Trigger Point Therapy,  Myofascial Release, Neuromuscular Therapy, and Active Isolated Stretching.   
+ For a couples session, massage therapy is usually intended for relaxation purposes rather than the healing of an injury or pain relief. Swedish Massage, the most basic form of massage is often used in couples massage for its relaxing effects.  Should you or your partner like your therapist to focus on any areas of pain or tension, you can easily upgrade to a therapeutic massage for just $10 per-person.  Your therapist will combine a variety of healing techniques to tailor-craft your massage to fit your personal needs.  These techniques may include, but are not limited to Deep Tissue, Trigger Point Therapy,  Myofascial Release, Neuromuscular Therapy, and Active Isolated Stretching.   
 
 ## Couples Massage
 
-### 60 minute
+### 60 Minutes
+
 <ul class="dotted-list">
   <li><span>Swedish</span><span>$160</span></li>
   <li><span>Therapeutic</span><span>$180</span></li>
 </ul>
 
-### 90 minute
+### 90 Minutes
+
 <ul class="dotted-list">
   <li><span>Therapeutic</span><span>$240</span></li>
 </ul>
 
 ## Enhancements and Add-ons
+
 <p class='center'>
 	(priced per person)
 </p>
