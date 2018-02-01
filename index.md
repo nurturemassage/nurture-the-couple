@@ -16,6 +16,8 @@ title: Home
 	Whether you're celebrating a special ocassion or simply treating yourself to an indulgent spa session, a couples massage is a great way for both you and your loved one to relax and rejuvenate. Despite the suggestive name, couples massages aren't just for couples -- friends and family members can also enjoy this indulging experience together.
 </p>
 
+<br><br>
+
 <div class="row">
 	<div class="col-sm-12 center">
 		<a href='/valentines-specials'>
