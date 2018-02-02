@@ -3,7 +3,7 @@ layout: page
 title: Policies 
 permalink: /policies/
 order: 4
-visable: true
+visible: true
 ---
 
 ## Reservation Policy 

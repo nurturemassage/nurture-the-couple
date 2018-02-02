@@ -17,7 +17,7 @@
           <div class="collapse navbar-collapse mt-2 mt-lg-0" id="navbarNavAltMarkup">
             <ul class="navbar-nav ml-auto">
               {% for page in pages %}
-                {% if page.visable == true %}
+                {% if page.visible == true %}
                   <li><a class="nav-item nav-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
                 {% endif %}
               {% endfor %}
