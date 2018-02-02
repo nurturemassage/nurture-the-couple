@@ -16,4 +16,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Menu Order", name: "order", widget: "number", valueType: "int"}
+      - {label: "Menu Visibility", name: "visible", widget: "boolean"} 
       - {label: "Body", name: "body", widget: "markdown"}
