@@ -70,5 +70,3 @@ There will be a 96-hr (4 day) cancellation policy.  If you cancel within 3-4 day
 half of the price of your service will be charged to the card: if you cancel with-in 48-hrs, then the 
 full-price will be charged.
 </strong>
-</div>
-</div>
