@@ -2,7 +2,8 @@
 layout: page
 title: Specials 
 permalink: /specials/
-order: 2
+visible: true
+order: 3
 ---
 
 ## New Therapist Special

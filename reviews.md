@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Reviews
+title: Reviews 
+permalink: /reviews/
+order: 4
+visible: true
 ---
-
 It is our top priority to provide you not only with a great massage, but with the best hospitable service from the moment you call til you walk out the door.  Many couples have enjoyed their experience with us.  We hope you will too.  
 
 ## From Google

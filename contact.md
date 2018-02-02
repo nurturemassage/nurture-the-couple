@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Contact
+title: Contact 
+permalink: /contact/
+order: 6
+visible: true
 ---
 ## Nurture Massage Therapeutic Spa
 
@@ -23,7 +26,6 @@ title: Contact
 		</div>
 	</div>
 
-```
 <div class="col-sm-6">
 	<div class="center">
 		Open by appointment.
@@ -33,7 +35,6 @@ title: Contact
 		<li><span>Saturday</span><span>10:00 am - 5:00 pm</span></li>
 	</ul>
 </div>
-```
 
 </div>
 

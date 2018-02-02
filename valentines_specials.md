@@ -1,11 +1,11 @@
----
-layout: default
+---                                                                            
+layout: default 
+permalink: /valentines-specials/                                                          
 title: 2018 Valentine's Specials
----
+--- 
 
 <p>Imagine stepping into a warm, cozy room filled with soft candlelight, rose petals scattered all about, and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in. You note a hint of lavender in the air and hear the gentle sound of massage oil being warmed in your therapist hands. You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.  <strong>This could be you on Valentine's Day!</strong></p>
 
-<br>
 <p class="center">
 All Massages scheduled for the 10th-18th will include a gift of FREE SIGNATURE AROMATHERAPY!  All Guests on Tuesday the 14th will receive a gift of Roses and Chocolate!
 </p>
@@ -63,9 +63,6 @@ oil smooths the skin and leaves a luminous glow.
 
 </ul>
 
-<br><br>
-
-
 <strong class="red">
 ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.   
 Please call to book your appointment.  All reservations for these dates must be secured with a credit card.  
@@ -75,5 +72,3 @@ full-price will be charged.
 </strong>
 </div>
 </div>
-
-<br><br>

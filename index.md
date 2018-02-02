@@ -23,5 +23,3 @@ title: Home
 		</a>
 	</div>
 </div>
-
-<br><br>
