@@ -52,14 +52,13 @@ oil smooths the skin and leaves a luminous glow.
 <li><span>Swedish</span><span>$300</span><span>$330</span></li> 
 <li><span>Therapeutic</span><span>$320</span><span>$350</span></li> 
 <li><span>Combo</span><span>$310</span><span>$340</span></li> 
-</li> 
 </ul>
 
 <h3>with 90 Minute Massage</h3>
 
 <ul class="dotted-list">
 
-<li><span>Therapeutic</span><span>$380</span><span>$410</span></li> 
+<li><span>Therapeutic</span><span>$380</span><span>$410</span></li>
 
 </ul>
 
