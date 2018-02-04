@@ -4,6 +4,7 @@ title: Home
 ---
 <h1>Massage for Two</h1>
 
+<center>
 <div class="row">
 	<div class="col-sm-12 center">
 		<a href='/valentines-specials'>
@@ -11,6 +12,7 @@ title: Home
 		</a>
 	</div>
 </div>
+</center>
 
 <p>
 	Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  
