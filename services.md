@@ -38,13 +38,13 @@ Aromatherapy massage uses essential oils derived from plants to affect your mood
   <li><span>Essential Oils</span><span>$15</span></li>
 </ul>
 
-### Hot Towles
+### Hot Towels
 
 The use of hot, moist towels in massage therapy, also known as hydro thermal therapy, can help tight muscles to relax, soothes irritated nerve endings and increases circulation. They are warm and soothing and great for removing oil after a massage. Choose 3 for Back and Feet or Hands and Neckline, or get all 6. 
 
 <ul class="dotted-list">
-  <li><span>3 Hot Towles</span><span>$15</span></li>
-  <li><span>6 Hot Towles</span><span>$20</span></li>
+  <li><span>3 Hot Towels</span><span>$15</span></li>
+  <li><span>6 Hot Towels</span><span>$20</span></li>
 </ul>
 
 ### Hot Stones
