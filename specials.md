@@ -6,7 +6,6 @@ visible: true
 order: 3
 ---
 
-<h1>Valentine's Specials</h1>
 <p class="center">
 All Massages scheduled for the 10th-18th will include a gift of FREE SIGNATURE AROMATHERAPY!
   All Guests on Tuesday the 14th will receive a gift of Roses and Chocolate!
