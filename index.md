@@ -5,7 +5,13 @@ title: Home
 <h1>Massage for Two</h1>
 
 
-
+<div class="row">
+	<div class="col-sm-12 center">
+		<a href='/valentines-specials'>
+			<img src='http://www.charlestonscmassage.com/valentine_massage_Charleston.png' alt='valentines specials link image'>
+		</a>
+	</div>
+</div>
 
 
 <p>
@@ -16,15 +22,6 @@ title: Home
 	hour of luxury and relaxation.
 
 </p>
-
-
-<div class="row">
-	<div class="col-sm-12 center">
-		<a href='/valentines-specials'>
-			<img src='http://www.charlestonscmassage.com/valentine_massage_Charleston.png' alt='valentines specials link image'>
-		</a>
-	</div>
-</div>
 
 
 <p>
