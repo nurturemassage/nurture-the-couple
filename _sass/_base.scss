@@ -11,13 +11,13 @@ h2,h4,h5,h6 {
 
 h1 {
   
-	font-family: $pacifico;
+	@include font-family: $pacifico;
 	@include heading($color-heading); 
 }
 
 h2 {
   
-	font-family: $pacifico;
+	@include font-family: $pacifico;
 
 }
 
