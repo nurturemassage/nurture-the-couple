@@ -4,6 +4,8 @@ permalink: /valentines-specials/
 title: 2018 Valentine's Specials
 --- 
 
+<h1>Valentine's Specials</h1>
+
 <p>Imagine stepping into a warm, cozy room filled with soft candlelight, rose petals scattered all about, and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in. You note a hint of lavender in the air and hear the gentle sound of massage oil being warmed in your therapist hands. You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.  <strong>This could be you on Valentine's Day!</strong></p>
 
 <p class="center">
