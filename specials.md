@@ -22,7 +22,7 @@ All Massages scheduled for the 10th-18th will include a gift of FREE SIGNATURE A
 <li><span>Swedish</span><span>$160</span><span>$190</span></li>
 <li><span>Therapeutic</span><span>$180</span><span>$210</span></li>
 <li><span>Combo</span><span>$170</span><span>$200</span></li>
-<li><span>90 Minutes</span><span>$240</span><span>$270</span></li>
+
 </ul>
 
 <h3>90 Minutes</h3>
