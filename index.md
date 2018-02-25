@@ -8,7 +8,7 @@ title: Home
 <div class="row">
 	<div class="col-sm-12 center">
 		<a href='/valentines-specials'>
-			<img src='http://www.charlestonscmassage.com/valentine_massage_Charleston.png' alt='valentines specials link image'>
+			<img src='{{ '/' | relative_url }}{{ site.image_path }}valentine_massage_Charleston.png' alt='valentines specials link image'>
 		</a>
 	</div>
 </div>
