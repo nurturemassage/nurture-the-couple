@@ -100,7 +100,7 @@ One of the first visible signs of stress are facial expressions. You may often c
 Start with an aromatic foot scrub with essential oils of Peppermint, Lavender, & Lemongrass. Follow up with a soothing massage from the tops of your calves to the ends of your toes. Hot towels add the finishing touch.
 
 <ul class="dotted-list">
-  <li><span>15 Minute Massage Enhancement</span><span>$30</span></li>
+  <li><span>15 Minute Massage Enhancement</span><span>$35</span></li>
 </ul>
 
 ### Head Over Heels
@@ -108,7 +108,5 @@ Start with an aromatic foot scrub with essential oils of Peppermint, Lavender, &
 Treat yourself from head to toe with the Head in the Clouds and the Sweet Feet Treat
 
 <ul class="dotted-list">
-  <li><span>15 Minute Massage Enhancement</span><span>$35</span></li>
+  <li><span>30 Minute Massage Enhancement</span><span>$65</span></li>
 </ul>
-
-
