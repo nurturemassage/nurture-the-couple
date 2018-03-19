@@ -52,3 +52,5 @@ title: Contact
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDzU6qfqWEBG2Uinf1ZE2MDUs8URlazf9E&q=825+Wappoo+Rd,+Charleston,+SC+29407" allowfullscreen>
 </iframe>
+
+<img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples%20and%20friends%20massage.jpg">
