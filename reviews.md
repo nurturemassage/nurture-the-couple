@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Reviews 
+page-title: Reviews for Nurture the Couple - Couples Massage in Charleston SC
+description: >-
+  See Google reviews from the many happy couples who visit our spa for couples
+  massage...
 permalink: /reviews/
 order: 4
 visible: true
+title: Reviews
 ---
 It is our top priority to provide you not only with a great massage, but with the best hospitable service from the moment you call til you walk out the door.  Many couples have enjoyed their experience with us.  We hope you will too.  
 
