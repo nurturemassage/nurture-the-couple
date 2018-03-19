@@ -16,6 +16,8 @@ Whether you're celebrating a special occassion or simply treating yourself to an
 
  For a couples session, massage therapy is usually intended for relaxation purposes rather than the healing of an injury or pain relief. Swedish Massage, the most basic form of massage is often used in couples massage for its relaxing effects.  Should you or your partner like your therapist to focus on any areas of pain or tension, you can easily upgrade to a therapeutic massage for just $10 per-person.  Your therapist will combine a variety of healing techniques to tailor-craft your massage to fit your personal needs.  These techniques may include, but are not limited to Deep Tissue, Trigger Point Therapy,  Myofascial Release, Neuromuscular Therapy, and Active Isolated Stretching.   
 
+<img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples%20and%20friends%20massage.jpg">
+
 ## Couples Massage
 
 ### 60 Minutes
@@ -110,3 +112,5 @@ Treat yourself from head to toe with the Head in the Clouds and the Sweet Feet T
 <ul class="dotted-list">
   <li><span>30 Minute Massage Enhancement</span><span>$65</span></li>
 </ul>
+
+<img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg">
