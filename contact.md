@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Contact 
+page-title: Contact Nurture the Couple - Massage for Two in Charleston SC
+description: >-
+  Contact information for Nurture the Couple.  Call or email with inquiries
+  about couples massage in Charleston SC
 permalink: /contact/
 order: 6
 visible: true
+title: Contact
 ---
 ## Nurture Massage Therapeutic Spa
 
