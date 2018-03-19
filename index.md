@@ -8,8 +8,8 @@ description: >-
   massages aren't just for couples -- friends and family members can also enjoy
   this indulging experience together.
 permalink: 'https://charlestoncouplesmassage.com/'
-order: 1
-visible: true
+order: 0
+visible: false
 title: Home
 ---
 <h1>Massage for Two</h1>
