@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Policies 
+page-title: Reservation Policies at Nurture the Couple - Couples Massage in Charleston SC
+description: >-
+  See our reservation policies for your couple massage.  Policies for
+  cancellation and lateness.
 permalink: /policies/
 order: 5
 visible: true
+title: Policies
 ---
 ## Reservation Policy 
 
