@@ -9,7 +9,9 @@ order: 6
 visible: true
 title: Contact
 ---
-## Nurture Massage Therapeutic Spa
+## Nurture the Couple
+
+<h3>Nurture Massage Therapeutic Spa</h3>
 
 <div class="row">
 	<div class="col-sm-6">
@@ -22,7 +24,7 @@ title: Contact
 		</address>
 		<div>
 			Phone:
-			<a href="tel:843-277-6467">843-277-6467</a>
+			<a href="tel:843-277-6467">843-277-6435</a>
 		</div>
 		<div>
 			Email:
