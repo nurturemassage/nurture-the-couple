@@ -12,18 +12,15 @@ order: 3
 visible: true
 title: Specials
 ---
+<h2>$10 Off
+ first Visit</h2>
 
 
-<h2>$10 Off first Visit</h2>
-
-<p>
 
 New clients, book and pre-pay for your first appointment at least a week in advance and we'll give you $10 off! <b>*Locals only.</b> 
 
-</p>
 
-<p>
 
 Specials are available upon request and can not be combined with other specials, discounts, or coupons.
 
-</p>
+<img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg">
