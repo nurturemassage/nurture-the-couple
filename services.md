@@ -1,9 +1,16 @@
 ---
 layout: page
-title: Services 
+page-title: Services at Nurture the Couple - Couples Massage in Charleston SC
+description: >-
+  Whether you're celebrating a special occassion or simply treating yourself to
+  an indulgent spa session, a couples massage is a great way for you and your
+  loved one to relax and rejuvenate. Despite the suggestive name, couples
+  massages are not just for couples; friends and family members can also enjoy
+  this luxurious experience together.
 permalink: /services/
 order: 2
 visible: true
+title: Services
 ---
 Whether you're celebrating a special occassion or simply treating yourself to an indulgent spa session, a couples massage is a great way for you and your loved one to relax and rejuvenate. Despite the suggestive name, couples massages are not just for couples; friends and family members can also enjoy this luxurious experience together.
 
