@@ -1,4 +1,7 @@
 
+Just getting the process for this started.  I am not ready to release this page it for atleast a month.  It is to be a landing page for a Google AdWords Campaign.
+
+
 ---
 layout: default
 page-title: Nurture the Couple - $20 Coupon - Couples Massage in Charleston SC
