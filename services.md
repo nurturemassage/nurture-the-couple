@@ -23,14 +23,14 @@ Whether you're celebrating a special occassion or simply treating yourself to an
 ### 60 Minutes
 
 <ul class="dotted-list">
-  <li><span>Swedish</span><span>$160</span></li>
-  <li><span>Therapeutic</span><span>$180</span></li>
+  <li><span>Swedish</span><span>$170</span></li>
+  <li><span>Therapeutic</span><span>$190</span></li>
 </ul>
 
 ### 90 Minutes
 
 <ul class="dotted-list">
-  <li><span>Therapeutic</span><span>$240</span></li>
+  <li><span>Therapeutic</span><span>$250</span></li>
 </ul>
 
 ## Enhancements and Add-ons
