@@ -78,7 +78,7 @@ Warm, soothing stones are placed on key pressure points to melt away tension and
  A body scrub will help to remove all the dead skin off your body and expose a supple layer of younger skin, making you feel fresh and rejuvenated. Choose Salt or Sugar and your choice of essential oils. 
 
 <ul class="dotted-list">
-  <li><span>30 Minutes</span><span>$65</span></li>
+  <li><span>30 Minute Add-on</span><span>$65</span></li>
 </ul>
 
 ### Face Massage
@@ -86,7 +86,7 @@ Warm, soothing stones are placed on key pressure points to melt away tension and
 One of the first visible signs of stress are facial expressions. You may often catch yourself clenching your jaws and furrowing your brow during the many intense moments of life. Ease the tension, tone other facial muscles, increase blood circulation, and relieve headaches with a face massage. This can also help to drain your sinuses.
 
 <ul class="dotted-list">
-  <li><span>15 Minute Massage Enhancement</span><span>$20</span></li>
+  <li><span>15 Minute Add-on</span><span>$20</span></li>
 </ul>
 
 ### Head in the Clouds
@@ -94,7 +94,7 @@ One of the first visible signs of stress are facial expressions. You may often c
  A luxurious treat starting with a relaxing neck and shoulder massage, followed by a stimulating scalp massage with essential oils of Lavender, Rosemary, and Jasmine.
 
 <ul class="dotted-list">
-  <li><span>15 Minute Massage Enhancement</span><span>$30</span></li>
+  <li><span>15 Minute Add-on</span><span>$30</span></li>
 </ul>
 
 ### Sweet Feet Treat
@@ -102,7 +102,7 @@ One of the first visible signs of stress are facial expressions. You may often c
 Start with an aromatic foot scrub with essential oils of Peppermint, Lavender, & Lemongrass. Follow up with a soothing massage from the tops of your calves to the ends of your toes. Hot towels add the finishing touch.
 
 <ul class="dotted-list">
-  <li><span>15 Minute Massage Enhancement</span><span>$35</span></li>
+  <li><span>15 Minute Add-on</span><span>$35</span></li>
 </ul>
 
 ### Head Over Heels
@@ -110,7 +110,7 @@ Start with an aromatic foot scrub with essential oils of Peppermint, Lavender, &
 Treat yourself from head to toe with the Head in the Clouds and the Sweet Feet Treat
 
 <ul class="dotted-list">
-  <li><span>30 Minute Massage Enhancement</span><span>$65</span></li>
+  <li><span>30 Minute Add-on</span><span>$65</span></li>
 </ul>
 
 <img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg">
