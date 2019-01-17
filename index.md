@@ -14,7 +14,7 @@ title: Home
 ---
 <h1>Massage for Two</h1>
 
-<a href="https://charlestoncouplesmassage.com/valentines-specials/"><img src="blob:https://charlestoncouplesmassage.com/23cbe5de-37c8-4f7d-984e-340a229304a5"></a>
+<a href="https://charlestoncouplesmassage.com/valentines-specials/"><img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/valentine_massage_charleston.png"></a>
 
 <p>
 	Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  
@@ -24,8 +24,6 @@ title: Home
 	hour of luxury and relaxation.
 
 </p>
-
-
 
 <p>
 	Whether you're celebrating a special ocassion or simply treating yourself to an indulgent spa session, a couples massage is a great way for both you and your loved one to relax and rejuvenate. Despite the suggestive name, couples massages aren't just for couples -- friends and family members can also enjoy this indulging experience together.
