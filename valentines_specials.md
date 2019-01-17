@@ -19,27 +19,11 @@ Choose a 60 or 90-minute Massage to be given with our indulgent Dark Chocolate O
 
 
 
-**w/ 60-minute Massage
-**
-
 <ul class="dotted-list">
 
-<li><span>Individual</span><span>$185</span></li>
+<li><span>w/ 60-minute Massage</span><span>$380</span></li>
 
-<li><span>Couple</span><span>$380</span></li>
-
-</ul>
-
-
-
-**w/ 90 minute Massage
-**
-
-<ul class="dotted-list">
-
-<li><span>Individual</span><span>$215</span></li>
-
-<li><span>Couple</span><span>$440</span></li>
+<li><span>w/ 90-Minute Massage</span><span>$440</span></li>
 
 </ul>
 
@@ -55,33 +39,16 @@ Choose a 60 or 90-minute Massage with Dark Chocolate Oil and receive a Bag of Ch
 Choose a 60 or 90-minute Massage with Vanilla & Rose Essential Oils and receive a Long-stemmed Rose. 
 
 
-60-minutes
 
 <ul class="dotted-list">
 
-<li><span>Individual</span><span>$115</span></li>
+<li><span>60-minutes</span><span>$240</span></li>
 
-<li><span>Couple</span><span>$240</span></li>
-
-</ul>
-
-
-
-90-minutes
-
-<ul class="dotted-list">
-
-<li><span>Individual</span><span>$145</span></li>
-
-<li><span>Couple</span><span>$300</span></li>
+<li><span>90-minutes</span><span>$300</span></li>
 
 </ul>
-
-
 
 _Couples may either choose the same service, or for one to receive the Chocolate treatment and the other to receive the Rose treatment._
-
-
 
 <strong class="red">
 ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.   
