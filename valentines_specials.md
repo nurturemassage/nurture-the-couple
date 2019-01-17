@@ -1,69 +1,97 @@
----                                                                            
-layout: default 
-permalink: /valentines-specials/                                                          
+---
+layout: default
+page-title: 2019 Valentine's Speicals
+description: Indulge in a romantic couples massage or treat yourself this valentine's day.
+permalink: /valentines-specials/
+order: 7
+visible: false
 title: 2019 Valentine's Specials
---- 
-
+---
 <h1>Valentine's Specials</h1>
 
 <p>Imagine stepping into a warm, cozy room filled with soft candlelight, rose petals scattered all about, and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in. You note a hint of lavender in the air and hear the gentle sound of massage oil being warmed in your therapist hands. You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.  <strong>This could be you on Valentine's Day!</strong></p>
 
-<p class="center">
-All Massages scheduled for the 10th-18th will include a gift of FREE SIGNATURE AROMATHERAPY!
-  All Guests on Tuesday the 14th will receive a gift of Roses and Chocolate!
-</p>
+
+
+<h2>Package A</h2>
+
+<h3>Chocolates & Roses</h3>
+
+Choose a 60 or 90-minute Massage to be given with our indulgent Dark Chocolate Oil followed by a 15-minute Foot Scrub and 15-minute Scalp Massage, both with Essential Oils of Rose and Vanilla. Afterwards you'll receive a glass of NA Rosé and a Long-stemmed Rose & Chocolates. 
 
 
 
-<h2>Couple's Massage</h2>
-
-<h3>60 Minutes</h3>
-
-<ul class="dotted-list">
-<li><span>Swedish</span><span>$160</span><span>$190</span></li>
-<li><span>Therapeutic</span><span>$180</span><span>$210</span></li>
-<li><span>Combo</span><span>$170</span><span>$200</span></li>
-<li><span>90 Minutes</span><span>$240</span><span>$270</span></li>
-</ul>
-
-<h3>90 Minutes</h3>
+**w/ 60-minute Massage**
 
 <ul class="dotted-list">
 
-<li><span>Therapeutic</span><span>$240</span><span>$270</span></li>
+<li><span>Individual</span><span>$185</span></li>
 
-</ul>
+<li><span>Couple</span><span>$380</span></li>
 
-<h2>Couple's Hot Stone Massage</h2>
-<ul class="dotted-list">
-<li><span>60 Minutes</span><span>$260</span><span>$290</span></li> 
-<li><span>90 Minutes</span><span>$320</span><span>$350</span></li> 
-</ul>
+</ul>
 
-<h2>Sweethearts Vanilla and Chocolate Spa Package</h2>
-
-<p class="center">
-Vanilla Sugar Scrub, followed by a 60 or 90 Minute massage with Italian Dark Chocolate Oil. Vanilla is 
-a powerful antioxidant and can help to prevent damage of the skin cells, due to the toxic action of pollutants 
-and toxins. We'll gently exfoliate, your legs, arms, decolletage, and back for 30 minutes. Our Chocolate massage 
-oil smooths the skin and leaves a luminous glow. 
-</p>
-
-<h3>with 60 Minute Massage</h3>
-
-<ul class="dotted-list">
-<li><span>Swedish</span><span>$300</span><span>$330</span></li> 
-<li><span>Therapeutic</span><span>$320</span><span>$350</span></li> 
-<li><span>Combo</span><span>$310</span><span>$340</span></li> 
-</ul>
-
-<h3>with 90 Minute Massage</h3>
+**w/ 90 minute Massage**
 
 <ul class="dotted-list">
 
-<li><span>Therapeutic</span><span>$380</span><span>$410</span></li>
+<li><span>Individual</span><span>$215</span></li>
 
-</ul>
+<li><span>Couple</span><span>$440</span></li>
+
+</ul>
+
+
+
+
+
+<h2>Package B</h2>
+
+
+
+
+
+<h3>B1: Chocolate</h3>
+
+Choose a 60 or 90-minute Massage with Dark Chocolate Oil and receive a Bag of Chocolates. 
+
+
+
+<h3>B2: Roses</h3>
+
+Choose a 60 or 90-minute Massage with Vanilla & Rose Essential Oils and receive a Long-stemmed Rose. Ch
+
+
+
+60-minutes
+
+<ul class="dotted-list">
+
+<li><span>Individual</span><span>$115</span></li>
+
+<li><span>Couple</span><span>$240</span></li>
+
+</ul>
+
+ 
+
+
+
+90-minutes
+
+<ul class="dotted-list">
+
+<li><span>Individual</span><span>$145</span></li>
+
+<li><span>Couple</span><span>$300</span></li>
+
+</ul>
+
+_Couples may either choose the same service, or for one to receive the Chocolate treatment and the other to receive the Rose treatment. _
+
+
+
+
 
 <strong class="red">
 ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.   
