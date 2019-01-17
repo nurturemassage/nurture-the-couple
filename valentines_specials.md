@@ -44,7 +44,7 @@ title: 2019 Valentine's Specials
 
 </ul>
 
-<p>_Couples may either choose the same service, or for one to receive the Chocolate treatment and the other to receive the Rose treatment._</p>
+<p><i>Couples may either choose the same service, or for one to receive the Chocolate treatment and the other to receive the Rose treatment.</i></p>
 
 <p><strong class="red">
 ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.\
