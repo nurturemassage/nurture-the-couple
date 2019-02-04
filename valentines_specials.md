@@ -7,15 +7,15 @@ order: 7
 visible: false
 title: 2019 Valentine's Specials
 ---
-<h1>Valentine's Specials</h1>
+<h1>Celebrate Love February 14th- 17th</h1>
 
 <p>Imagine stepping into a warm, cozy room filled with soft candlelight, rose petals scattered all about, and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in. You note a hint of lavender in the air and hear the gentle sound of massage oil being warmed in your therapist hands. You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.  <strong>This could be you on Valentine's Day!</strong></p>
 
-<h2>Package A</h2>
+<h1>Valentine's Packages</h1>
 
-<h3>Chocolates & Roses</h3>
+<h2>Devotion</h2>
 
-<p>Choose a 60 or 90-minute Massage to be given with our indulgent Dark Chocolate Oil followed by a 15-minute Foot Scrub and 15-minute Scalp Massage, both with Essential Oils of Rose and Vanilla. Afterwards you'll receive a glass of NA Rosé and a Long-stemmed Rose & Chocolates. </p>
+<p>Choose a 60 or 90-minute Massage to be given with our indulgent <b>Dark Chocolate Oil</b> followed by a <b>15-minute Foot Scrub</b> and <b>15-minute Scalp Massage</b>, both with <b>Essential Oils of Rose and Vanilla</b>. Afterwards you'll receive a glass of NA <b>Rosé</b> and a <b>Long-stemmed Rose & Chocolates</b>. </p>
 
 <ul class="dotted-list">
 
@@ -25,26 +25,35 @@ title: 2019 Valentine's Specials
 
 </ul>
 
-<h2>Package B</h2>
+<h2>Passion</h2>
 
-<h3>B1: Chocolate
-</h3>
 
-<p>Choose a 60 or 90-minute Massage with Dark Chocolate Oil and receive a Bag of Chocolates.</p> 
 
-<h3>B2: Roses</h3>
+<p>Choose a <b>60 or 90-minute Massage</b> with <b>Dark Chocolate Oil</b> and end with a glass of NA <b>Rosé</b> and a <b>Long-stemmed Rose & Chocolates</b>. </p> 
 
-<p>Choose a 60 or 90-minute Massage with Vanilla & Rose Essential Oils and receive a Long-stemmed Rose.</p>
+
 
 <ul class="dotted-list">
 
-<li><span>60-minutes</span><span>$240</span></li>
+<li><span>60-minute Massage</span><span>$250</span></li>
 
-<li><span>90-minutes</span><span>$300</span></li>
+<li><span>90-Minute Massage</span><span>$310</span></li>
 
 </ul>
 
-<p><i>Couples may either choose the same service, or for one to receive the Chocolate treatment and the other to receive the Rose treatment.</i></p>
+<h2>Romance</h2>
+
+<p>Receive a <b>Classic Couples Massage</b>, your choice of <b>60 or 90-minutes</b>. </p>
+
+<ul class="dotted-list">
+
+<li><span>60-minute Massage</span><span>$190</span></li>
+
+<li><span>90-Minute Massage</span><span>$250</span></li>
+
+</ul>
+
+<br>
 
 <p><strong class="red">
 ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.
