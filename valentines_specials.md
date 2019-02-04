@@ -39,14 +39,14 @@ title: 2019 Valentine's Specials
 
 <h2>Romance</h2>
 
-<p>Receive a <b>Classic Couples Massage</b>, your choice of <b>60 or 90-minutes</b>. 
+<p>Receive a <b>Classic Couples Massage</b>, your choice of <b>60 or 90-minutes</b> and finish with a glass of NA <b>Rosé</b>. 
 </p>
 
 <ul class="dotted-list">
 
-<li><span>60-minute Massage</span><span>$190</span></li>
+<li><span>60-minute Massage</span><span>$200</span></li>
 
-<li><span>90-Minute Massage</span><span>$250</span></li>
+<li><span>90-Minute Massage</span><span>$260</span></li>
 
 </ul>
 
