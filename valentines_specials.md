@@ -11,13 +11,11 @@ title: 2019 Valentine's Specials
 
 <p>Imagine stepping into a warm, cozy room filled with soft candlelight, rose petals scattered all about, and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in. You note a hint of lavender in the air and hear the gentle sound of massage oil being warmed in your therapist hands. You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.  <strong>This could be you on Valentine's Day!</strong></p>
 
-
-
 <h1>Valentine's Packages</h1>
 
 <h2>Devotion</h2>
 
-<p>Choose a 60 or 90-minute Massage to be given with our indulgent <b>Dark Chocolate Oil</b> followed by a <b>15-minute Foot Scrub</b> and <b>15-minute Scalp Massage</b>, both with <b>Essential Oils of Rose and Vanilla</b>. Afterwards you'll receive a glass of NA <b>Rosé</b> and a <b>Long-stemmed Rose & Chocolates</b>. </p>
+<p>Choose a <b>60 or 90-minute Massage</b> to be given with our indulgent <b>Dark Chocolate Oil</b> followed by a <b>15-minute Foot Scrub</b> and <b>15-minute Scalp Massage</b>, both with <b>Essential Oils of Rose and Vanilla</b>. Afterwards you'll receive a glass of NA <b>Rosé</b> and a <b>Long-stemmed Rose & Chocolates</b>. </p>
 
 <ul class="dotted-list">
 
