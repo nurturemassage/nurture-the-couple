@@ -50,6 +50,21 @@ title: 2019 Valentine's Specials
 
 </ul>
 
+<h2>Intrigue</h2>
+
+<p>Just want the basics?  Choose our<b>Classic Couples Massage</b>, your choice of <b>60 or 90-minutes</b>.</b> 
+</p>
+
+<ul class="dotted-list">
+
+<li><span>60-minute Swedish</span><span>$170</span></li>
+
+<li><span>60-minute Massage</span><span>$190</span></li>
+
+<li><span>90-Minute Massage</span><span>$250</span></li>
+
+</ul>
+
 <br>
 
 <p><strong class="red">
