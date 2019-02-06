@@ -14,7 +14,7 @@ title: Home
 ---
 <h1>Massage for Two</h1>
 
-<a href="https://charlestoncouplesmassage.com/valentines-specials/"><img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/valentine_massage_charleston.png"></a>
+<center><a href="https://charlestoncouplesmassage.com/valentines-specials/"><img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/valentine_massage_charleston.png"></a></center>
 
 <p>
 	Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  
