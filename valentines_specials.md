@@ -52,7 +52,7 @@ title: 2019 Valentine's Specials
 
 <h2>Intrigue</h2>
 
-<p>Just want the basics?  Choose our<b>Classic Couples Massage</b>, your choice of <b>60 or 90-minutes</b>.
+<p>Just want the basics?  Choose our <b>Classic Couples Massage</b>, your choice of <b>60 or 90-minutes</b>.
 </p>
 
 <ul class="dotted-list">
