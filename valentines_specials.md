@@ -61,7 +61,7 @@ title: 2019 Valentine's Specials
 
 <li><span>60-minute Therapeutic</span><span>$190</span></li>
 
-<li><span>90-Minute Massage</span><span>$250</span></li>
+<br><li><span>90-Minute Massage</span><span>$250</span></li>
 
 </ul>
 
