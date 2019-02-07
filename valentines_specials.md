@@ -69,7 +69,7 @@ title: 2019 Valentine's Specials
 
 <p><strong class="red">
 ONLINE BOOKING WILL BE DISABLED FOR THESE DAYS SO THAT WE MAY OPTIMIZE OUR SCHEDULE AS BEST AS POSSIBLE.
-Please call to book your appointment.  All reservations for these dates must be secured with a credit card.\
+Please call to book your appointment.  All reservations for these dates must be secured with a credit card.
 There will be a 96-hr (4 day) cancellation policy.  If you cancel within 3-4 days prior to your appointment, 
 half of the price of your service will be charged to the card: if you cancel with-in 48-hrs, then the 
 full-price will be charged.
