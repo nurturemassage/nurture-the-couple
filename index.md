@@ -16,11 +16,7 @@ title: Home
 
 <center>
 
-<a heref="https://charlestoncouplesmassage.com/valentines-specials/">
-
-![couples massage valentines specials charleston](/assets/images/valentine_massage_Charleston.png)
-
-</a>
+<a heref="https://charlestoncouplesmassage.com/valentines-specials/"><img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/valentine_massage_Charleston.png" alt="couples massage valentines specials charleston"></a>
 
 </center>
 
