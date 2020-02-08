@@ -11,6 +11,8 @@ title: Reviews
 ---
 It is our top priority to provide you not only with a great massage, but with the best hospitable service from the moment you call til you walk out the door.  Many couples have enjoyed their experience with us.  We hope you will too.  
 
+[Write your Review](https://www.google.com/search?hl=en-US&gl=us&q=Nurture+the+Couple-Massage+for+Two+-+Couples+Massage+in+Charleston+SC,+825+Wappoo+Rd+%232d,+Charleston,+SC+29407&ludocid=2769011503542678267&lsig=AB86z5UEaISzmqL_ueKU7OpJVyAW#lrd=0x88fe7c72b2e288c9:0x266d814aa7a1b2fb,3)
+
 ## From Google
 
 ### Kathleen K. - 4 months ago
