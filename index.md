@@ -16,7 +16,7 @@ title: Home
 
 <center>
 
-[<img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/valentine_massage_Charleston.png" alt="couples massage valentines specials charleston">](https://charlestoncouplesmassage.com/valentines-specials/)
+<a href="https://charlestoncouplesmassage.com/valentines-specials/"><img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/valentine_massage_Charleston.png" alt="couples massage valentines specials charleston"></a>
 
 </center>
 
