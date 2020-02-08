@@ -14,7 +14,15 @@ title: Home
 ---
 <h1>Massage for Two</h1>
 
+<center>
 
+<a heref="https://charlestoncouplesmassage.com/valentines-specials/">
+
+![couples massage valentines specials charleston](/assets/images/valentine_massage_Charleston.png)
+
+</a>
+
+</center>
 
 <p>
 	Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  
