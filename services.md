@@ -18,15 +18,10 @@ Whether you're celebrating a special occasion or simply treating yourself to an 
 
 <img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples%20and%20friends%20massage.jpg">
 
+
 ## Couples Honeymoon/Anniversary Package
 
-## 
-
-This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.
-
-It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
-
-
+This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about  It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
 
 <ul class="dotted-list">
 
