@@ -14,11 +14,7 @@ title: Home
 ---
 <h1>Massage for Two</h1>
 
-<center>
 
-<a href="https://charlestoncouplesmassage.com/valentines-specials/"><img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/valentine_massage_Charleston.png" alt="couples massage valentines specials charleston"></a>
-
-</center>
 
 <p>
 	Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  
@@ -26,11 +22,21 @@ title: Home
 	You note the smell of lavender and hear the gentle sound of massage oil being warmed in their hands.  
 	You and your partner take in one last glimpse of one another before closing your eyes and escaping into an 
 	hour of luxury and relaxation.
+</p>
+
+<h3>Couples Honeymoon/Anniversary Package</h3>
+
+<p>This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.  It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
+
+
+
+60-minutes ..... $260
+
+90-minutes ..... $320
 
 </p>
 
 <p>
-	Whether you're celebrating a special ocassion or simply treating yourself to an indulgent spa session, a couples massage is a great way for both you and your loved one to relax and rejuvenate. Despite the suggestive name, couples massages aren't just for couples -- friends and family members can also enjoy this indulging experience together.
-</p>
+	
 
 <img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg" alt="Couples Massage in Charleston SC">
