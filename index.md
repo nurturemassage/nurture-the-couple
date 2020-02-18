@@ -12,20 +12,15 @@ order: 0
 visible: false
 title: Home
 ---
-<h1>Massage for Two</h1>
+### Massage for Two
 
-<p>
-	Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  
-	You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in.  
-	You note the smell of lavender and hear the gentle sound of massage oil being warmed in their hands.  
-	You and your partner take in one last glimpse of one another before closing your eyes and escaping into an 
-	hour of luxury and relaxation.
-</p>
 
-<h3>Couples Honeymoon/Anniversary Package</h3>
+Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in.  You note the smell of lavender and hear the gentle sound of massage oil being warmed in their hands.  You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.
 
-<p>This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.
-  It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
+
+## Couples Honeymoon/Anniversary Package
+
+This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.  It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
 
 <ul class="dotted-list">
   <li><span>60-minutes</span><span>$260</span></li>
@@ -34,13 +29,8 @@ title: Home
 
 <br><br>
 
-<center>[See more services here.](https://charlestoncouplesmassage.com/services/)</center>
+<center><a href="https://charlestoncouplesmassage.com/services/">See more Services here</a></center>
 
-### 
-
-</p>
-
-
-	
+<br>
 
 <img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg" alt="Couples Massage in Charleston SC">
