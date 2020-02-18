@@ -14,7 +14,7 @@ title: Home
 ---
 # Massage for Two
 
-Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in.  You note the smell of lavender and hear the gentle sound of massage oil being warmed in their hands.  You and your partner take in one last glimpse of one another before closing your eyes and escaping into an hour of luxury and relaxation.
+Whether you’re celebrating a special occasion or simply treating yourself to an indulgent spa session, a couples massage is a great way for you and your loved one to relax and rejuvenate. Despite the suggestive name, couples massages are not just for couples; friends and family members can also enjoy this luxurious experience together.
 
 ## Couples Honeymoon/Anniversary Package
 
