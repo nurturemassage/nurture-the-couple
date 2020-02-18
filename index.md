@@ -18,7 +18,7 @@ Imagine stepping into a warm, cozy room filled with soft light and a serenade of
 
 ## Couples Honeymoon/Anniversary Package
 
-This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.  It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
+This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about. It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
 
 <ul class="dotted-list">
   <li><span>60-minutes</span><span>$260</span></li>
