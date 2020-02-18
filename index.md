@@ -14,15 +14,20 @@ title: Home
 ---
 # Massage for Two
 
-Whether you’re celebrating a special occasion or simply treating yourself to an indulgent spa session, a couples massage is a great way for you and your loved one to relax and rejuvenate. Despite the suggestive name, couples massages are not just for couples; friends and family members can also enjoy this luxurious experience together.
+Whether you're celebrating a special occasion or simply treating yourselves to an indulgent spa session, a couples massage is a great way for you and your loved one to relax and rejuvenate.  Despite the suggestive name, a couples massage are not just for couples: friends and family members can also enjoy this luxurious experience together.
 
-## Couples Honeymoon/Anniversary Package
 
-This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about. It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
+
+## Honeymoon/Anniversary Package
+
+This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.  It does not have to be a special occasion to book this service, bit it's perfect for Honeymoons, Babymooons, anniversaries, birthdays, or just tome off together!
 
 <ul class="dotted-list">
-  <li><span>60-minutes</span><span>$260</span></li>
-  <li><span>90-minutes</span><span>$320</span></li>
+
+<li><span>60-minutes</span><span>$260</span></li>
+
+<li><span>90-minutes</span><span>$320</span></li>
+
 </ul>
 
 <center><a href="https://charlestoncouplesmassage.com/services/">See more Services here</a></center>
