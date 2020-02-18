@@ -14,8 +14,6 @@ title: Home
 ---
 <h1>Massage for Two</h1>
 
-
-
 <p>
 	Imagine stepping into a warm, cozy room filled with soft light and a serenade of hushed music.  
 	You and your loved one slip under crisp, fresh sheets just before your two personal massage therapists walk in.  
@@ -26,17 +24,23 @@ title: Home
 
 <h3>Couples Honeymoon/Anniversary Package</h3>
 
-<p>This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.  It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
+<p>This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about.
+  It does not have to be a special occasion to book this service, but it's perfect for Honeymoons, Babymoons, anniversaries, birthdays, or just time off together!
 
+<ul class="dotted-list">
+  <li><span>60-minutes</span><span>$260</span></li>
+  <li><span>90-minutes</span><span>$320</span></li>
+</ul>
 
+<br><br>
 
-60-minutes ..... $260
+<center>[See more services here.](https://charlestoncouplesmassage.com/services/)</center>
 
-90-minutes ..... $320
+### 
 
 </p>
 
-<p>
+
 	
 
 <img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg" alt="Couples Massage in Charleston SC">
