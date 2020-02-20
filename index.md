@@ -20,6 +20,8 @@ Whether you're celebrating a special occasion or simply treating yourselves to a
 
 This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about. It does not have to be a special occasion to book this service, bit it's perfect for Honeymoons, Babymooons, anniversaries, birthdays, or just tome off together!
 
+<br>
+
 <ul class="dotted-list">
 
   <li><span>60-minutes</span><span>$260</span></li>
