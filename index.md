@@ -16,7 +16,7 @@ title: Home
 
 Whether you're celebrating a special occasion or simply treating yourselves to an indulgent spa session, a couples massage is a great way for you and your loved one to relax and rejuvenate. Despite the suggestive name, a couples massage are not just for couples: friends and family members can also enjoy this luxurious experience together.
 
-<h2>Honeymoon/Anniversary Package</h2>
+<h2>Special Occasion Package</h2>
 
 This special session includes our Vanilla Rose aromatherapy, deluxe hot towel treatment and rose petals scattered about. It does not have to be a special occasion to book this service, bit it's perfect for Honeymoons, Babymooons, anniversaries, birthdays, or just tome off together!
 
