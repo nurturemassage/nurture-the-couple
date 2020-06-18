@@ -34,4 +34,4 @@ This special session includes our Vanilla Rose aromatherapy, deluxe hot towel tr
 
 <center><a href="https://charlestoncouplesmassage.com/services/">See more Services here</a><br><br>
 
-<img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg>
+<img src="https://raw.githubusercontent.com/nurturemassage/nurture-the-couple/master/assets/images/couples_massage_charleston_sc.jpg" >
