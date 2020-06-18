@@ -9,7 +9,7 @@ description: >-
   this indulging experience together.
 permalink: /specials/
 order: 3
-visible: true
+visible: false
 title: Specials
 ---
 <h2>$10 Off
